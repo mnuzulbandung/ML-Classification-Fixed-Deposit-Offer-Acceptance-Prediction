@@ -21,26 +21,26 @@ Source: [Kaggle](https://www.kaggle.com/datasets/psvishnu/bank-direct-marketing)
 
 Here’s a summary of the columns in the dataset:
 
-| **Key Name**          | **Description**        | **Data Types**         |
-|-----------------------||-----------------------||-----------------------|
+| Key Name  | Description | Data Types |
+|-----------|-------------|------------|
+| age       | Customer's age | Numeric |
+| job       | Customer's job type | Categorical |
+| marital   | Customer's marital status | Categorical |
+| education | Customer's highest level of education | Numeric |
+| default   | Condition where the customer previously failed to repay a loan within the agreed period ('yes': occurred to the customer, 'no': did not occur to the customer) | Categorical |
+| balance   | Average annual income received by the customer in Euros | Numeric |
+| housing   | Customer's home ownership status | Categorical |
+| loan      | Condition where the customer previously took an unsecured personal loan from the bank ('yes': occurred to the customer, 'no': did not occur to the customer) | Categorical |
+| contact   | Type of marketing communication previously conducted with the customer | Categorical |
+| day       | Date of the previous marketing communication with the customer | Numeric |
+| month     | Month of the previous marketing communication with the customer | Categorical |
+| duration  | Number of days of the previous marketing communication with the customer | Numeric |
+| campaign  | Total number of marketing communications conducted with the customer during the current marketing campaign | Numeric |
+| pdays     | Number of days since the last marketing communication with the customer from the previous campaign to the current campaign. If the value is -1, it means the customer has not been contacted in any marketing communication. | Numeric |
+| previous  | Total number of marketing communications conducted with the customer during the previous marketing campaign | Numeric |
+| poutcome  | Type of marketing communication used in the current campaign | Categorical |
+| y         | Condition where the customer agrees to subscribe to a term deposit | Categorical |
 
-|	age	|	Customer's age	|	Numeric	|
-|	job	|	Customer's job type	|	Categorical	|
-|	marital	|	Customer's marital status	|	Categorical	|
-|	education	|	Customer's highest level of education	|	Numeric	|
-|	default	|	Condition where the customer previously failed to repay a loan within the agreed period ('yes': occurred to the customer, 'no': did not occur to the customer)	|	Categorical	|
-|	balance	|	Average annual income received by the customer in Euros	|	Numeric	|
-|	housing	|	Customer's home ownership status	|	Categorical	|
-|	loan	|	Condition where the customer previously took an unsecured personal loan from the bank ('yes': occurred to the customer, 'no': did not occur to the customer)	|	Categorical	|
-|	contact	|	Type of marketing communication previously conducted with the customer	|	Categorical	|
-|	day	|	Date of the previous marketing communication with the customer	|	Numeric	|
-|	month	|	Month of the previous marketing communication with the customer	|	Categorical	|
-|	duration	|	Number of days of the previous marketing communication with the customer	|	Numeric	|
-|	campaign	|	Total number of marketing communications conducted with the customer during the current marketing campaign	|	Numeric	|
-|	pdays	|	Number of days since the last marketing communication with the customer from the previous campaign to the current campaign. If the value is -1, it means the customer has not been contacted in any marketing communication.	|	Numeric	|
-|	previous	|	Total number of marketing communications conducted with the customer during the previous marketing campaign	|	Numeric	|
-|	poutcome	|	Type of marketing communication used in the current campaign	|	Categorical	|
-|	y	|	Condition where the customer agrees to subscribe to a term deposit	|	Categorical	|
 
 ## **Methodology**
 
