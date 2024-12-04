@@ -1,4 +1,4 @@
-# **ML Classification:**
+# **ML Classification**
 # **Fixed Deposit Offer Acceptance Prediction**
 
 This program can predict whether a specific customer will accept a term deposit offer if contacted. This is done by creating a classification machine learning model based on customer data from January 2020 to January 2024. The information generated from this model can later be used as a consideration for the marketing team in determining which customers should be offered the product.
