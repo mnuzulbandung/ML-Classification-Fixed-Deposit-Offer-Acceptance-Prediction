@@ -3,7 +3,7 @@
 
 This program can predict whether a specific customer will accept a term deposit offer if contacted. This is done by creating a classification machine learning model based on customer data from January 2020 to January 2024. The information generated from this model can later be used as a consideration for the marketing team in determining which customers should be offered the product.
 
-The model creation and evaluation are carried out in the file _. Then, the model's application on new data (inference) is done in the file _.
+The model creation and evaluation are carried out in the file model_creation_evaluation.ipynb. The data used for the model creation and evaluation is bank-full.csv. Then, the model's application on new data (inference) is done in the file model_inference.ipynb.
 
 
 ## **Introduction**
