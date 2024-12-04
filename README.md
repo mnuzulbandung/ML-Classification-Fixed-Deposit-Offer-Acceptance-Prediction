@@ -75,7 +75,7 @@ Given that the evaluation scores for the KNN and SVC models are similar to those
 You can interact with and explore the deployed model here:  
 [Fixed Deposit Offer Acceptance Prediction](https://huggingface.co/spaces/mnuzulbandung/aaaa)
 
-## **Libraries Used 🛠️**
+## **Libraries Used**
 
 - Pandas
 - NumPy
