@@ -73,7 +73,7 @@ Given that the evaluation scores for the KNN and SVC models are similar to those
 ## **Link to Model Deployment**
 
 You can interact with and explore the deployed model here:  
-[Fixed Deposit Offer Acceptance Prediction](https://huggingface.co/spaces/mnuzulbandung/aaaa)
+[Fixed Deposit Offer Acceptance Prediction](https://huggingface.co/spaces/mnuzulbandung/ML_classification)
 
 ## **Libraries Used**
 
@@ -88,4 +88,4 @@ You can interact with and explore the deployed model here:
 ## **Author**
 
 M Nuzul  
-LinkedIn: [M NUzul](https://www.linkedin.com/in/m-nuzul/)
+LinkedIn: [M Nuzul](https://www.linkedin.com/in/m-nuzul/)
